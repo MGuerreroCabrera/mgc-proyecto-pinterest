@@ -13,7 +13,7 @@ export const printHeader = () => {
 
     // Añadir logotipo
     const logoHTML = document.createElement("img");
-    logoHTML.src = "https://mgc-proyecto-pinterest.netlify.app/assets/img/logo-phinterest.png";
+    logoHTML.src = "../../../assets/img/logo-phinterest.png";
     logoHTML.alt = "Logo phinterest";
     logoHTML.id = "logoPhinterest";
     headerHTML.appendChild(logoHTML);
