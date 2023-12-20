@@ -1,0 +1,11 @@
+.icons-list-header {
+    /*width: 20%;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: var(--mgc-gap-s);
+}
+
+.icons-list img {
+    width: 15px;
+}
