@@ -1,9 +1,9 @@
 .icons-list-header {
-    /*width: 20%;*/
+    width: 15%;
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: var(--mgc-gap-s);
+    gap: var(--mgc-gap-m);
 }
 
 .icons-list img {
