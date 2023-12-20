@@ -1,5 +1,5 @@
 import { printFooter } from './src/components/Footer/Footer';
-import { printHeader } from './src/components/header/Header';
+import { printHeader } from './src/components/Header/Header';
 import './style.css';
 
 // Declaro la variable que será la capa #app donde irá el contenido del sitio.

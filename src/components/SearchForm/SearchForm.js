@@ -1,4 +1,4 @@
-import { printHeader } from "../header/Header";
+import { printHeader } from "../Header/Header";
 import { printPhotos } from "../../../main";
 import { printFooter } from "../Footer/Footer";
 import "./SearchForm.css";
