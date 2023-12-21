@@ -6,15 +6,15 @@ import "./OptionsHeader.css";
 // Objeto con las url de las imágenes y los alt
 const imgData = [
     {
-        url: "./public/bell-icon.png",
+        url: "./Public/bell-icon.png",
         alt: "icono avisos"
     },
     {
-        url: "./public/dialog-icon.png",
+        url: "./Public/dialog-icon.png",
         alt: "icono chat"
     },
     {
-        url: "./public/usuario.png",
+        url: "./Public/usuario.png",
         alt: "icono perfil usuario"
     }
 ];
